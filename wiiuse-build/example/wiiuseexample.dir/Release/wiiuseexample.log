@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Le répertoire intermédiaire (wiiuseexample.dir\Release\) contient des fichiers partagés provenant d'un autre projet (wiiuseexample.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  wiiboard ddr.cpp
+..\..\wiiuse-master\example\wiiboard ddr.cpp(85): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+..\..\wiiuse-master\example\wiiboard ddr.cpp(86): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+..\..\wiiuse-master\example\wiiboard ddr.cpp(87): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  wiiuseexample.vcxproj -> D:\User\Desktop\Wii\wiiuse-build\example\Release\wiiuseexample.exe

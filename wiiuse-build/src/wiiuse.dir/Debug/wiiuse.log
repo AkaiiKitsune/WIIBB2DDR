@@ -1,0 +1,17 @@
+﻿  Building Custom Rule D:/User/Desktop/Wii/wiiuse-master/src/CMakeLists.txt
+  CMake does not need to re-run because D:/User/Desktop/Wii/wiiuse-build/src/CMakeFiles/generate.stamp is up-to-date.
+  classic.c
+  dynamics.c
+  events.c
+  guitar_hero_3.c
+  io.c
+  ir.c
+  nunchuk.c
+  wiiuse.c
+  wiiboard.c
+  motion_plus.c
+  util.c
+  os_win.c
+  Génération de code en cours...
+     Création de la bibliothèque D:/User/Desktop/Wii/wiiuse-build/src/Debug/wiiuse_debug.lib et de l'objet D:/User/Desktop/Wii/wiiuse-build/src/Debug/wiiuse_debug.exp
+  wiiuse.vcxproj -> D:\User\Desktop\Wii\wiiuse-build\src\Debug\wiiuse_debug.dll

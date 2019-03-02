@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\User\Desktop\Wii\wiiuse-master\src\classic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\User\Desktop\Wii\wiiuse-master\src\dynamics.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\User\Desktop\Wii\wiiuse-master\src\events.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\User\Desktop\Wii\wiiuse-master\src\guitar_hero_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\User\Desktop\Wii\wiiuse-master\src\io.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\User\Desktop\Wii\wiiuse-master\src\ir.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\User\Desktop\Wii\wiiuse-master\src\nunchuk.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\User\Desktop\Wii\wiiuse-master\src\wiiuse.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\User\Desktop\Wii\wiiuse-master\src\wiiboard.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\User\Desktop\Wii\wiiuse-master\src\motion_plus.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\User\Desktop\Wii\wiiuse-master\src\util.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\User\Desktop\Wii\wiiuse-master\src\os_win.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\User\Desktop\Wii\wiiuse-master\src\classic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Wii\wiiuse-master\src\definitions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Wii\wiiuse-master\src\definitions_os.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Wii\wiiuse-master\src\dynamics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Wii\wiiuse-master\src\events.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Wii\wiiuse-master\src\guitar_hero_3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Wii\wiiuse-master\src\motion_plus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Wii\wiiuse-master\src\io.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Wii\wiiuse-master\src\ir.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Wii\wiiuse-master\src\nunchuk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Wii\wiiuse-master\src\os.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Wii\wiiuse-master\src\wiiuse_internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Wii\wiiuse-master\src\wiiboard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Wii\wiiuse-master\src\wiiuse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Wii\wiiuse-master\src\wiiuse_msvcstdint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\User\Desktop\Wii\wiiuse-master\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9CA9E65C-6BD9-3123-8341-3B0F0FB9720A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{93C56F0B-C85B-3CA9-ABC9-D3F17DE25D15}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

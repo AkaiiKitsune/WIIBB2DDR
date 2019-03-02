@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Le répertoire intermédiaire (wiiuseexample.dir\Debug\) contient des fichiers partagés provenant d'un autre projet (wiiuseexample.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  Building Custom Rule D:/User/Desktop/Wii/wiiuse-master/example/CMakeLists.txt
+  CMake does not need to re-run because D:/User/Desktop/Wii/wiiuse-build/example/CMakeFiles/generate.stamp is up-to-date.
+  wiiboard ddr.cpp
+..\..\wiiuse-master\example\wiiboard ddr.cpp(84): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+..\..\wiiuse-master\example\wiiboard ddr.cpp(85): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+..\..\wiiuse-master\example\wiiboard ddr.cpp(86): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  wiiuseexample.vcxproj -> D:\User\Desktop\Wii\wiiuse-build\example\Debug\wiiuseexample.exe

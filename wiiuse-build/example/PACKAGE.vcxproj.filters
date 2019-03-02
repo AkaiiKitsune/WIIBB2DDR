@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\User\Desktop\Wii\wiiuse-build\CMakeFiles\1d2ba97d5ec9c7bcf7017433a03739a5\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{47FB25C9-9F15-3D34-82D2-101F82C82E6F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

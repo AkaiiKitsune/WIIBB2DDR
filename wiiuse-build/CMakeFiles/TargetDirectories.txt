@@ -1,0 +1,10 @@
+D:/User/Desktop/Wii/wiiuse-build/CMakeFiles/PACKAGE.dir
+D:/User/Desktop/Wii/wiiuse-build/CMakeFiles/INSTALL.dir
+D:/User/Desktop/Wii/wiiuse-build/CMakeFiles/ALL_BUILD.dir
+D:/User/Desktop/Wii/wiiuse-build/CMakeFiles/ZERO_CHECK.dir
+D:/User/Desktop/Wii/wiiuse-build/src/CMakeFiles/wiiuse.dir
+D:/User/Desktop/Wii/wiiuse-build/src/CMakeFiles/PACKAGE.dir
+D:/User/Desktop/Wii/wiiuse-build/src/CMakeFiles/INSTALL.dir
+D:/User/Desktop/Wii/wiiuse-build/example/CMakeFiles/wiiuseexample.dir
+D:/User/Desktop/Wii/wiiuse-build/example/CMakeFiles/PACKAGE.dir
+D:/User/Desktop/Wii/wiiuse-build/example/CMakeFiles/INSTALL.dir

@@ -1,0 +1,15 @@
+﻿  classic.c
+  dynamics.c
+  events.c
+  guitar_hero_3.c
+  io.c
+  ir.c
+  nunchuk.c
+  wiiuse.c
+  wiiboard.c
+  motion_plus.c
+  util.c
+  os_win.c
+  Génération de code en cours...
+     Création de la bibliothèque D:/User/Desktop/Wii/wiiuse-build/src/Release/wiiuse.lib et de l'objet D:/User/Desktop/Wii/wiiuse-build/src/Release/wiiuse.exp
+  wiiuse.vcxproj -> D:\User\Desktop\Wii\wiiuse-build\src\Release\wiiuse.dll
