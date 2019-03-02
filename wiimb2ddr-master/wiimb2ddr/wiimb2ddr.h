@@ -13,7 +13,7 @@
 #include "wiiuse.h" /* for wiimote_t, classic_ctrl_t, etc */
 
 int mainLoop();
-int connection(int disconnect);
+int connection();
 void handle_event(struct wiimote_t *wm);
 void handle_read(struct wiimote_t *wm, byte *data, unsigned short len);
 void handle_ctrl_status(struct wiimote_t *wm);
@@ -28,11 +28,12 @@ int loopThroughBTDevices(int nRadios, int &nPaired, HANDLE* hRadios, char remove
 #include <unistd.h> /* for usleep */
 #endif
 #define MAX_WIIMOTES 4
-int firstRun = 0;
-double frontLeftCal, frontRightCal, backLeftCal, backRightCal;
-double frontLeft, frontRight, backLeft, backRight;
+
+float frontLeftCal=0, frontRightCal=0, backLeftCal=0, backRightCal=0;
+float frontLeft=0, frontRight=0, backLeft=0, backRight=0;
 
 #pragma comment(lib, "Bthprops.lib")
 
 
 int loopErrorMax = 10;
+int firstRun = 0;
