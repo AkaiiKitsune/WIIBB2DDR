@@ -20,7 +20,7 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="wiimb2ddr.h">
+    <ClInclude Include="wiibb2ddr.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -28,7 +28,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="wiimb2ddr.cpp">
+    <ClCompile Include="wiibb2ddr.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

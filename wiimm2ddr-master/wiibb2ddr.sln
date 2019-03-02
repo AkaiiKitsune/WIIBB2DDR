@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wiimb2ddr", "wiimb2ddr\wiimb2ddr.vcxproj", "{5CBA371D-FBC8-4E0A-9264-44995D697A27}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wiimb2ddr", "wiibb2ddr\wiibb2ddr.vcxproj", "{5CBA371D-FBC8-4E0A-9264-44995D697A27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="wiimb2ddr.h" />
+    <ClInclude Include="wiibb2ddr.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
@@ -30,7 +30,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="wiimb2ddr.cpp" />
+    <ClCompile Include="wiibb2ddr.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\wiiuse-build\src\wiiuse.vcxproj">
@@ -43,9 +43,9 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{5CBA371D-FBC8-4E0A-9264-44995D697A27}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>wiimb2ddr</RootNamespace>
+    <RootNamespace>wiibb2ddr</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
-    <ProjectName>wiimb2ddr</ProjectName>
+    <ProjectName>wiibb2ddr</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
